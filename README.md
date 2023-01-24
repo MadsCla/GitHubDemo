@@ -9,5 +9,7 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 
 ‘badges’ are away to identify what status/ other the project is in.
 
+other badges can be found: <https://www.repostatus.org/#active>
+
 The goal of GitHubDemo is to practice pushing and pulling docs from
 GitHub
